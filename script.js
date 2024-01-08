@@ -46,4 +46,4 @@ function performOperation(firstOperand, secondOperand, operation) {
     case '/':
       return firstOperand / secondOperand;
     default:
- }}
+ }};
